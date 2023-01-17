@@ -21,7 +21,7 @@ Other resource items are hidden on the Form.
 
 ### Screenshot
 
-<img src="" alt="Error">
+<img src="" alt="Coming Soon ...">
 
 ## Clone
 
