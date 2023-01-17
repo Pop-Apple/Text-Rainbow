@@ -26,5 +26,13 @@ Other resource items are hidden on the Form.
 ## Clone
 
 ```
-code
+git clone https://github.com/Pop-Apple/Text-Rainbow.git
 ```
+
+## License
+
+All source code released under [MIT](https://github.com/Pop-Apple/Text-Rainbow/blob/master/LICENSE) LICENSE
+
+#### Skills
+
+> C#
