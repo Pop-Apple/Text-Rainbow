@@ -19,9 +19,9 @@ Other resource items are hidden on the Form.
 
 ---
 
-### Screenshot
+### Demonstlation
 
-<img src="" alt="Coming Soon ...">
+<img src="https://github.com/Pop-Apple/Text-Rainbow/blob/master/assets/Sample.gif" width="400px" height="250px">
 
 ## Clone
 
