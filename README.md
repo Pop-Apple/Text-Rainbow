@@ -36,3 +36,4 @@ All source code released under [MIT](https://github.com/Pop-Apple/Text-Rainbow/b
 #### Skills
 
 > C#
+> DeepL Translation `ja` to `en`
